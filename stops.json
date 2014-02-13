@@ -1,0 +1,206 @@
+[
+    {
+        "lat": "43.682583", 
+        "stop_name": "Toronto Airport, ON", 
+        "long": "-79.61363", 
+        "stop_location": "T1-Post P6 (Grd Level), T3-Post C8. Pearson Airport"
+    }, 
+    {
+        "lat": "44.22789", 
+        "stop_name": "TC Kingston", 
+        "long": "-76.49466", 
+        "stop_location": "Queens University. "
+    }, 
+    {
+        "lat": "42.93406", 
+        "stop_name": "Buffalo Airport, NY", 
+        "long": "-78.72965", 
+        "stop_location": "Buffalo Niagara International Airport. Arrivals and departures are located at the bus lane on the east side of the Buffalo Niagara International Airport terminal building on the arrivals level."
+    }, 
+    {
+        "lat": "43.77555", 
+        "stop_name": "Scarborough, ON", 
+        "long": "-79.25408", 
+        "stop_location": "Scarborough Town Centre. In Scarborough the bus stops at the Scarborough Town Center located south of the 401 at McCowan Rd, at the transit area on the south side of the mall - Platform #5."
+    }, 
+    {
+        "lat": "43.865784", 
+        "stop_name": "Whitby, ON", 
+        "long": "-78.93757", 
+        "stop_location": "Whitby GO Station. In Whitby the bus stops at the Whitby GO Transit Station on Brock Street."
+    }, 
+    {
+        "lat": "44.259327", 
+        "stop_name": "Kingston, ON", 
+        "long": "-76.506195", 
+        "stop_location": "Kingston Bus Terminal. The Kingston Bus Terminal is located at 1175 John Counter Blvd, south of the 401 between Division Street and Sir John A McDonald Blvd."
+    }, 
+    {
+        "lat": "44.599976", 
+        "stop_name": "Brockville, ON", 
+        "long": "-75.70389", 
+        "stop_location": "SW Corner of Stewart Blvd at Jefferson Dr. The Brockville bus stop is located within the Food Basics business area, at the parking lot next to Kentucky Fried Chicken."
+    }, 
+    {
+        "lat": "45.054394", 
+        "stop_name": "Cornwall, ON", 
+        "long": "-74.777824", 
+        "stop_location": "Irving 24 Service Center, 3250 Brookdale Ave. The Cornwall bus stop is located at the Irving 24 Service Center, off Brookdale Ave, north of Highway 401."
+    }, 
+    {
+        "lat": "45.447136", 
+        "stop_name": "Kirkland, PQ", 
+        "long": "-73.85333", 
+        "stop_location": "Kirkland Depanneur Beausoir. In Kirkland the bus stops at the Depanneur Beausoir at 2875 St Charles Blvd."
+    }, 
+    {
+        "lat": "43.656113", 
+        "stop_name": "Toronto, ON", 
+        "long": "-79.384186", 
+        "stop_location": "Toronto Coach Terminal - 610 Bay Street. The Toronto Bus Terminal is located in the heart of downtown Toronto at 610 Bay Street, 1 block from The Eaton Center."
+    }, 
+    {
+        "lat": "43.166107", 
+        "stop_name": "Beamsville, ON", 
+        "long": "-79.47692", 
+        "stop_location": "Avondale Store. The stop is located at the Avondale Store at 5009 King St W."
+    }, 
+    {
+        "lat": "43.193695", 
+        "stop_name": "Grimsby, ON", 
+        "long": "-79.5614", 
+        "stop_location": "Giant Tiger Store. Bus stop is located at the Giant Tiger Store at 36 Main St W."
+    }, 
+    {
+        "lat": "45.497753", 
+        "stop_name": "Montreal, PQ", 
+        "long": "-73.56585", 
+        "stop_location": "997 St-Antoine Ouest (M\u00e9tro Bonaventure). The Montreal stop is located on the south end of Le1000 de La Gaucheti\u00e8re building (M\u00e9tro Bonaventure).Departures & Arrivals will take place outside 997 St-Antoine Ouest."
+    }, 
+    {
+        "lat": "43.449615", 
+        "stop_name": "Kitchener, ON", 
+        "long": "-80.49221", 
+        "stop_location": "Kitchener Transportation Centre. The stop is located at the Kitchener Transportation Centre at 15 Charles St W."
+    }, 
+    {
+        "lat": "43.474754", 
+        "stop_name": "Waterloo, ON", 
+        "long": "-80.546394", 
+        "stop_location": "Waterloo University. The bust stop is located at Waterloo University campus at the North entrance near B.C. Mathews Hall and at the South Campus Hall."
+    }, 
+    {
+        "lat": "43.258736", 
+        "stop_name": "Hamilton McMaster University, ON", 
+        "long": "-79.92245", 
+        "stop_location": "McMaster University. The McMaster University stop is located at McMaster University at Mary Keyes and Cootes Drive."
+    }, 
+    {
+        "lat": "43.357887", 
+        "stop_name": "Cambridge, ON", 
+        "long": "-80.313835", 
+        "stop_location": "Cambridge/Galt Bus Terminal. The stop is located at the Cambridge/Galt Bus Terminal at 35 Ainslie Street."
+    }, 
+    {
+        "lat": "43.159115", 
+        "stop_name": "St Catharines, ON", 
+        "long": "-79.24301", 
+        "stop_location": "Bus Terminal, 70 Carlisle St. The bus stop is located at the Union Bus Terminal at 70 Carlisle St."
+    }, 
+    {
+        "lat": "43.258785", 
+        "stop_name": "Hamilton GO Centre, ON", 
+        "long": "-79.922295", 
+        "stop_location": "... "
+    }, 
+    {
+        "lat": "43.08293", 
+        "stop_name": "Niagara Fallsview Casino, ON", 
+        "long": "-79.08088", 
+        "stop_location": "Fallsview Casino. "
+    }, 
+    {
+        "lat": "43.11909", 
+        "stop_name": "St. Catharines Brock University, ON", 
+        "long": "-79.24859", 
+        "stop_location": "St. Catharines Brock University. "
+    }, 
+    {
+        "lat": "43.971725", 
+        "stop_name": "Port Hope, ON", 
+        "long": "-78.286514", 
+        "stop_location": "Harvey's, Highway 401/28. Our stop is located at Harvey's on Highway 401/28"
+    }, 
+    {
+        "lat": "43.985893", 
+        "stop_name": "Cobourg, ON", 
+        "long": "-78.17278", 
+        "stop_location": "City Park Lot, Hwy401/45. Our stop is located in the City Park Lot at Hwy 401/45"
+    }, 
+    {
+        "lat": "43.10848", 
+        "stop_name": "Niagara Falls, ON", 
+        "long": "-79.06362", 
+        "stop_location": "Niagara Falls Bus Terminal. The Niagara Falls Bus Terminal is situated at 4555 Erie Ave, Niagara Falls, O"
+    }, 
+    {
+        "lat": "42.8831", 
+        "stop_name": "Buffalo, NY", 
+        "long": "-78.87239", 
+        "stop_location": "Downtown Terminal. Arrivals and departures are located at gate 13 in the Metropolitan Transportation Center terminal building at 181 Ellicott Street."
+    }, 
+    {
+        "lat": "44.16272", 
+        "stop_name": "Belleville, ON", 
+        "long": "-77.382", 
+        "stop_location": "Bus Terminal, 169 Pinnacle Street. Our stop is located at the Bus Terminal, 169 Pinnacle Street"
+    }, 
+    {
+        "lat": "44.115215", 
+        "stop_name": "Trenton, ON", 
+        "long": "-77.59717", 
+        "stop_location": "Quinte Inn, 10 Trenton Street. Our stop is located at Quinte Inn, 10 Trenton Street"
+    }, 
+    {
+        "lat": "43.3606", 
+        "stop_name": "Burlington, ON", 
+        "long": "-79.78722", 
+        "stop_location": "Holiday Inn, 3063 South Service Rd. Our stop is located curbside between the Holiday Inn hotel entrance and Harvester Rd."
+    }, 
+    {
+        "lat": "44.25805", 
+        "stop_name": "Napanee, ON", 
+        "long": "-76.96146", 
+        "stop_location": "Petro-Canada, Hyw401/41. Our stop is located at Petro-Canada, Hyw401/41"
+    }, 
+    {
+        "lat": "42.91047", 
+        "stop_name": "Fort Erie, ON", 
+        "long": "-78.910614", 
+        "stop_location": "Vinces Robo Mart, 21 Princess St. In Fort Erie our stop is located at Vinces Robo Mart at 21 Princess Street."
+    }, 
+    {
+        "lat": "43.58894", 
+        "stop_name": "Mississauga, ON", 
+        "long": "-79.64292", 
+        "stop_location": "Mississauga Square One Mall. Our stop is located at the corner of City Center Drive and Duke of York Blvd near city hall."
+    }, 
+    {
+        "lat": "42.992645", 
+        "stop_name": "Welland, ON", 
+        "long": "-79.246315", 
+        "stop_location": "160 East Main St, L3B 3W8. In Welland our stop is located at the Welland Transit bus terminal at 160 East Main St."
+    }, 
+    {
+        "lat": "42.88631", 
+        "stop_name": "Port Colborne, ON", 
+        "long": "-79.25172", 
+        "stop_location": "City Bus Stop, King and Clarence St. In Port Colborne our bus stops at the city bus top at King and Clarence Street."
+    }, 
+    {
+        "lat": "43.458103", 
+        "stop_name": "Oakville, ON", 
+        "long": "-79.68463", 
+        "stop_location": "Holiday Inn, 590 Argus Rd. In Oakville our bus stop is located at the Holiday Inn at 590 Argus Rd."
+    }
+]
