@@ -1,0 +1,2258 @@
+[
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 44.0, 
+        "destination": "Belleville, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "3:0", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 44.0, 
+        "destination": "Belleville, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "2:59", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 35.0, 
+        "destination": "Cobourg, ON", 
+        "arrival_time": "2014-02-13T20:25:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 35.0, 
+        "destination": "Cobourg, ON", 
+        "arrival_time": "2014-02-13T22:55:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T22:20:00", 
+        "duration": "3:50", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T00:50:00", 
+        "duration": "3:50", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "Napanee, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "3:30", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "Napanee, ON", 
+        "arrival_time": "2014-02-13T00:30:00", 
+        "duration": "3:30", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "TC Kingston", 
+        "arrival_time": "2014-02-13T22:30:00", 
+        "duration": "4:0", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 50.0, 
+        "destination": "TC Kingston", 
+        "arrival_time": "2014-02-13T01:00:00", 
+        "duration": "4:0", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 39.0, 
+        "destination": "Trenton, ON", 
+        "arrival_time": "2014-02-13T21:15:00", 
+        "duration": "2:45", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Toronto Airport, ON", 
+        "price": 39.0, 
+        "destination": "Trenton, ON", 
+        "arrival_time": "2014-02-13T23:45:00", 
+        "duration": "2:45", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Buffalo Airport, NY", 
+        "price": 6.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Buffalo Airport, NY", 
+        "price": 6.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "1:35", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Buffalo Airport, NY", 
+        "price": 6.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Buffalo Airport, NY", 
+        "price": 6.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:45:00", 
+        "duration": "2:5", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Buffalo Airport, NY", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "3:19", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Scarborough, ON", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:10:00", 
+        "duration": "2:10", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Scarborough, ON", 
+        "price": 46.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T22:40:00", 
+        "duration": "4:40", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Scarborough, ON", 
+        "price": 70.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T23:15:00", 
+        "duration": "5:15", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 23.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 23.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T00:40:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T23:50:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 23.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T18:50:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 23.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T01:30:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T23:50:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 43.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T19:55:00", 
+        "duration": "2:45", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 43.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T22:40:00", 
+        "duration": "2:20", 
+        "departure_time": "2014-02-13T20:20:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 43.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T02:35:00", 
+        "duration": "2:45", 
+        "departure_time": "2014-02-13T23:50:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 49.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T20:30:00", 
+        "duration": "3:20", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 64.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T21:15:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T18:20:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 49.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 64.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T23:15:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T20:20:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 64.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T00:45:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T21:50:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 64.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T03:10:00", 
+        "duration": "3:20", 
+        "departure_time": "2014-02-13T23:50:00"
+    }, 
+    {
+        "origin": "Kingston, ON", 
+        "price": 64.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T00:45:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T22:05:00"
+    }, 
+    {
+        "origin": "Brockville, ON", 
+        "price": 23.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T18:50:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Brockville, ON", 
+        "price": 23.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:00:00"
+    }, 
+    {
+        "origin": "Brockville, ON", 
+        "price": 46.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T19:55:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Brockville, ON", 
+        "price": 46.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T20:30:00", 
+        "duration": "2:30", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 23.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T19:10:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 23.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T19:10:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 26.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T16:45:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T15:40:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 26.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T19:55:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T18:50:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 26.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T17:20:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T15:40:00"
+    }, 
+    {
+        "origin": "Cornwall, ON", 
+        "price": 26.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T20:30:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T18:50:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 46.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T18:05:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 26.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T18:05:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 43.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "2:45", 
+        "departure_time": "2014-02-13T18:05:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 38.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T00:10:00", 
+        "duration": "2:35", 
+        "departure_time": "2014-02-13T21:35:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 38.0, 
+        "destination": "Scarborough, ON", 
+        "arrival_time": "2014-02-13T02:40:00", 
+        "duration": "5:5", 
+        "departure_time": "2014-02-13T21:35:00"
+    }, 
+    {
+        "origin": "Kirkland, PQ", 
+        "price": 38.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T03:00:00", 
+        "duration": "5:25", 
+        "departure_time": "2014-02-13T21:35:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 43.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T00:40:00", 
+        "duration": "3:40", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 43.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T01:30:00", 
+        "duration": "4:30", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 13.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "2:30", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:55:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T20:35:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T22:10:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T21:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T23:55:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T23:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T18:10:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T15:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 49.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:10:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T21:40:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T19:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T23:40:00", 
+        "duration": "2:40", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 46.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T22:40:00", 
+        "duration": "5:10", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 43.0, 
+        "destination": "Kirkland, PQ", 
+        "arrival_time": "2014-02-13T02:35:00", 
+        "duration": "5:35", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 70.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T21:15:00", 
+        "duration": "5:45", 
+        "departure_time": "2014-02-13T15:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 59.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "5:45", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 70.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T23:15:00", 
+        "duration": "5:45", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 70.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T00:45:00", 
+        "duration": "5:45", 
+        "departure_time": "2014-02-13T19:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 70.0, 
+        "destination": "Montreal, PQ", 
+        "arrival_time": "2014-02-13T03:10:00", 
+        "duration": "6:10", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 17.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:40:00", 
+        "duration": "2:10", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 17.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T19:55:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 16.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "2:0", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 16.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T22:50:00", 
+        "duration": "1:35", 
+        "departure_time": "2014-02-13T21:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T00:45:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T23:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 17.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T18:55:00", 
+        "duration": "2:25", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 16.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:45:00", 
+        "duration": "2:15", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 16.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T23:05:00", 
+        "duration": "1:50", 
+        "departure_time": "2014-02-13T21:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T00:55:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T23:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "Port Colborne, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "2:20", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T18:50:00", 
+        "duration": "1:35", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T19:30:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 13.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T20:55:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 13.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:30:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T21:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 9.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T00:15:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T23:00:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 14.0, 
+        "destination": "St. Catharines Brock University, ON", 
+        "arrival_time": "2014-02-13T18:55:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 13.0, 
+        "destination": "St. Catharines Brock University, ON", 
+        "arrival_time": "2014-02-13T21:00:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Toronto, ON", 
+        "price": 17.0, 
+        "destination": "Welland, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T15:35:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T15:25:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T17:15:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T23:10:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T23:00:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 5.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T16:15:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T15:25:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T17:05:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T19:05:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T20:50:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:40:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:50:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T17:35:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T17:05:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T19:05:00"
+    }, 
+    {
+        "origin": "Beamsville, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:05:00", 
+        "duration": "0:15", 
+        "departure_time": "2014-02-13T20:50:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T17:05:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T16:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T19:05:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T18:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:10", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T16:15:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T15:35:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:10:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T17:25:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T19:50:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 5.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T23:45:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T23:10:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T16:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T18:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:40:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T20:40:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T17:35:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T16:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T18:55:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 11.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T17:20:00"
+    }, 
+    {
+        "origin": "Grimsby, ON", 
+        "price": 11.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T21:20:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 46.0, 
+        "destination": "Brockville, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "2:30", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 26.0, 
+        "destination": "Cornwall, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T19:25:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "3:20", 
+        "departure_time": "2014-02-13T17:30:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 64.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T21:55:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T19:00:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 49.0, 
+        "destination": "Kingston, ON", 
+        "arrival_time": "2014-02-13T00:10:00", 
+        "duration": "3:10", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 59.0, 
+        "destination": "Scarborough, ON", 
+        "arrival_time": "2014-02-13T02:40:00", 
+        "duration": "5:40", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 70.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T00:45:00", 
+        "duration": "5:45", 
+        "departure_time": "2014-02-13T19:00:00"
+    }, 
+    {
+        "origin": "Montreal, PQ", 
+        "price": 59.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T03:00:00", 
+        "duration": "6:0", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 5.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T17:05:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T16:35:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 5.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T19:05:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 5.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T21:05:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T20:35:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:05:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T16:35:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T20:35:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T17:50:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T16:35:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T19:45:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Kitchener, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T21:45:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T20:35:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T19:30:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T18:45:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T18:45:00"
+    }, 
+    {
+        "origin": "Hamilton McMaster University, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T21:25:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:05:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T17:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T19:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T21:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T17:50:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T17:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T19:45:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T19:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 10.0, 
+        "destination": "Hamilton McMaster University, ON", 
+        "arrival_time": "2014-02-13T21:45:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T21:05:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 5.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T16:05:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T15:30:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 5.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T17:25:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 5.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Cambridge, ON", 
+        "price": 5.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T21:25:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T20:50:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T17:15:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T23:00:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T22:40:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Buffalo Airport, NY", 
+        "arrival_time": "2014-02-13T18:40:00", 
+        "duration": "1:55", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Buffalo, NY", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T17:40:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 5.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T20:55:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:20:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T17:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 8.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T19:20:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T18:55:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T23:10:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T22:40:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:10:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T19:50:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T18:55:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T23:45:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T22:40:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Mississauga, ON", 
+        "arrival_time": "2014-02-13T16:45:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T15:35:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T17:10:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T16:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T17:35:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:40:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T19:55:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T19:35:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T20:55:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T21:05:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T22:50:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T22:30:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T18:55:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:45:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:55:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:40:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T21:05:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T23:05:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T22:30:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 14.0, 
+        "destination": "Oakville, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 6.0, 
+        "destination": "Port Colborne, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T18:50:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T16:55:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T15:35:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 15.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T17:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T20:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 11.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "1:14", 
+        "departure_time": "2014-02-13T22:45:00"
+    }, 
+    {
+        "origin": "St Catharines, ON", 
+        "price": 6.0, 
+        "destination": "Welland, ON", 
+        "arrival_time": "2014-02-13T19:10:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T18:50:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T17:05:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T19:05:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T19:30:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Cambridge, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:00:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T16:55:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T18:55:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 5.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T20:40:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 10.0, 
+        "destination": "Kitchener, ON", 
+        "arrival_time": "2014-02-13T21:25:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T20:00:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 7.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 8.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 8.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 8.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T21:40:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T17:35:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T18:15:00"
+    }, 
+    {
+        "origin": "Hamilton GO Centre, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:05:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T20:10:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T23:00:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 3.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T16:20:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T15:50:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 5.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "0:15", 
+        "departure_time": "2014-02-13T21:45:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:20:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T20:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T23:10:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 8.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T23:45:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 14.0, 
+        "destination": "Oakville, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "1:35", 
+        "departure_time": "2014-02-13T19:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T17:00:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T19:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:00:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T20:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 5.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:40:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:45:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 18.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "2:15", 
+        "departure_time": "2014-02-13T16:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "2:15", 
+        "departure_time": "2014-02-13T19:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "2:0", 
+        "departure_time": "2014-02-13T20:15:00"
+    }, 
+    {
+        "origin": "Niagara Fallsview Casino, ON", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "1:59", 
+        "departure_time": "2014-02-13T22:00:00"
+    }, 
+    {
+        "origin": "St. Catharines Brock University, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T17:15:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "St. Catharines Brock University, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "St. Catharines Brock University, ON", 
+        "price": 7.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:10:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T17:15:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T16:05:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "Beamsville, ON", 
+        "arrival_time": "2014-02-13T23:00:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 9.0, 
+        "destination": "Buffalo Airport, NY", 
+        "arrival_time": "2014-02-13T18:40:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 9.0, 
+        "destination": "Buffalo, NY", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "1:5", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 5.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T16:20:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T15:35:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 6.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T17:40:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T17:10:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 5.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T21:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:25:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T16:05:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T17:20:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 8.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T19:20:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "0:50", 
+        "departure_time": "2014-02-13T20:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T23:10:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 8.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T18:10:00", 
+        "duration": "2:5", 
+        "departure_time": "2014-02-13T16:05:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 8.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T19:50:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 8.0, 
+        "destination": "Hamilton GO Centre, ON", 
+        "arrival_time": "2014-02-13T23:45:00", 
+        "duration": "1:30", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 14.0, 
+        "destination": "Oakville, ON", 
+        "arrival_time": "2014-02-13T20:50:00", 
+        "duration": "1:20", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 1.0, 
+        "destination": "Port Colborne, ON", 
+        "arrival_time": "2014-02-13T18:45:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 5.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T16:45:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T16:05:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T17:00:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T17:45:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 1.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T18:55:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T20:00:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:00:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T20:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 5.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:40:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:45:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 5.0, 
+        "destination": "St. Catharines Brock University, ON", 
+        "arrival_time": "2014-02-13T16:30:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T16:05:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 7.0, 
+        "destination": "St. Catharines Brock University, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "0:15", 
+        "departure_time": "2014-02-13T17:45:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 18.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "2:0", 
+        "departure_time": "2014-02-13T16:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T21:30:00", 
+        "duration": "2:0", 
+        "departure_time": "2014-02-13T19:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T20:30:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "1:44", 
+        "departure_time": "2014-02-13T22:15:00"
+    }, 
+    {
+        "origin": "Niagara Falls, ON", 
+        "price": 1.0, 
+        "destination": "Welland, ON", 
+        "arrival_time": "2014-02-13T18:30:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T18:00:00"
+    }, 
+    {
+        "origin": "Buffalo, NY", 
+        "price": 6.0, 
+        "destination": "Fort Erie, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "0:20", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Buffalo, NY", 
+        "price": 6.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Buffalo, NY", 
+        "price": 6.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Buffalo, NY", 
+        "price": 6.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:45:00", 
+        "duration": "1:45", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Buffalo, NY", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "2:59", 
+        "departure_time": "2014-02-13T21:00:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 6.0, 
+        "destination": "Buffalo, NY", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "0:35", 
+        "departure_time": "2014-02-13T17:40:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 3.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T17:45:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T17:00:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 6.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T21:20:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 6.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T22:00:00", 
+        "duration": "0:40", 
+        "departure_time": "2014-02-13T21:20:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 11.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T18:15:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T17:00:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 6.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T22:45:00", 
+        "duration": "1:25", 
+        "departure_time": "2014-02-13T21:20:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 3.0, 
+        "destination": "St. Catharines Brock University, ON", 
+        "arrival_time": "2014-02-13T18:00:00", 
+        "duration": "1:0", 
+        "departure_time": "2014-02-13T17:00:00"
+    }, 
+    {
+        "origin": "Fort Erie, ON", 
+        "price": 11.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T23:59:00", 
+        "duration": "2:39", 
+        "departure_time": "2014-02-13T21:20:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "1:35", 
+        "departure_time": "2014-02-13T19:45:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:30:00", 
+        "duration": "0:45", 
+        "departure_time": "2014-02-13T19:45:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 3.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T20:15:00", 
+        "duration": "0:30", 
+        "departure_time": "2014-02-13T19:45:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 1.0, 
+        "destination": "Port Colborne, ON", 
+        "arrival_time": "2014-02-13T18:45:00", 
+        "duration": "0:15", 
+        "departure_time": "2014-02-13T18:30:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 5.0, 
+        "destination": "Port Colborne, ON", 
+        "arrival_time": "2014-02-13T19:35:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T19:10:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:00:00", 
+        "duration": "1:15", 
+        "departure_time": "2014-02-13T19:45:00"
+    }, 
+    {
+        "origin": "Welland, ON", 
+        "price": 17.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "2:30", 
+        "departure_time": "2014-02-13T19:45:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 11.0, 
+        "destination": "Grimsby, ON", 
+        "arrival_time": "2014-02-13T21:20:00", 
+        "duration": "2:0", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 5.0, 
+        "destination": "Niagara Falls, ON", 
+        "arrival_time": "2014-02-13T20:30:00", 
+        "duration": "1:10", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 3.0, 
+        "destination": "Niagara Fallsview Casino, ON", 
+        "arrival_time": "2014-02-13T20:15:00", 
+        "duration": "0:55", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 7.0, 
+        "destination": "St Catharines, ON", 
+        "arrival_time": "2014-02-13T21:00:00", 
+        "duration": "1:40", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 14.0, 
+        "destination": "Toronto, ON", 
+        "arrival_time": "2014-02-13T22:15:00", 
+        "duration": "2:55", 
+        "departure_time": "2014-02-13T19:20:00"
+    }, 
+    {
+        "origin": "Port Colborne, ON", 
+        "price": 1.0, 
+        "destination": "Welland, ON", 
+        "arrival_time": "2014-02-13T19:45:00", 
+        "duration": "0:25", 
+        "departure_time": "2014-02-13T19:20:00"
+    }
+]
